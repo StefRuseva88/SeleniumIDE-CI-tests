@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 1. Selenium IDE
+## Selenium IDE
 
 ### Step 1: Run the App Locally
 Create a CI workflow with GitHub Actions to run the tests automatically.
