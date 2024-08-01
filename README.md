@@ -1,5 +1,5 @@
 # Workshop: CI System with Selenium Tests
-### This is a project for Front-End Test Automation July 2024 Course @ SoftUni
+### This is a test project for Front-End Test Automation July 2024 Course @ SoftUni
 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
