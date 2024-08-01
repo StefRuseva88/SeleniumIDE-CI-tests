@@ -33,8 +33,6 @@ Create a CI workflow with GitHub Actions to run the tests automatically.
     git remote add origin https://github.com/{name-of-your-repository}
     git push -u origin main
     ```
-3. Check your GitHub repo – the application code should be visible.
-
 ### Step 3: Add Changes to Test Files
 1. Modify the `SetUp()` method of the project to run Chrome in a headless mode within the CI environment.
 2. Commit and push the changes:
